@@ -3,8 +3,9 @@ import aiocron
 from telethon import TelegramClient, events
 
 # Replace with your API ID and API hash
-api_id = 26236995
-api_hash = '7f235ff5ca650fcd8eff6c46c970ea47'
+api_id = 24233752
+api_hash = '30254793f955fc8d24ba1705d494cc0a'
+
 
 client = TelegramClient('user', api_id, api_hash).start()
 
